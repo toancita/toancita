@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/c5/9c/2f/c59c2f26e69a8e6258bc323a455e5d58.gif" width="400"/>
 
-I'm currently exploring the world of web development, design, and tech in general. <br>Health student by day, coder by night.
+I'm currently exploring the world of web development, design, and tech in general. <br>Health student by day, silly cat coder by night.
 
 ### A bit about me
 
