@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/c5/9c/2f/c59c2f26e69a8e6258bc323a455e5d58.gif" width="400"/>
 
-I'm currently exploring the world of web development, design, and tech in general. <br>Health student by day, silly coder by night.
+I'm currently exploring the world of web development, design, and tech in general. <br>Trying my best.
 
 ### A bit about me
 
@@ -18,7 +18,7 @@ I'm currently exploring the world of web development, design, and tech in genera
 
 <img src="https://skillicons.dev/icons?i=html,css,js,figma" alt="Tech Stack"/>
 
-### 🌌 Currently Navigating
+### 🌌 Currently learning
 
 <img src="https://skillicons.dev/icons?i=react,next" alt="Currently Learning" />
 
