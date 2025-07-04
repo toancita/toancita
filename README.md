@@ -8,7 +8,7 @@ I'm currently exploring the world of web development, design, and tech in genera
 
 ### A bit about me
 
-📓Passionate about neuroscience, biomechanics & human function.<br>
+📓Passionate about neuroscience & human function.<br>
 🏋🏻‍♀️Love lifting weights, running, and exploring the body–mind connection.<br>
 🎨Fan of chess, drawing, and coding as a creative outlet.<br>
 🧃Never done learning.
