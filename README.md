@@ -14,7 +14,7 @@ I'm currently exploring the world of web development, design, and tech in genera
 🧃Never done learning.
 
 
-## 🛰️ Languages & Tools I Use
+## 🛰️ Skills and tools
 
 <img src="https://skillicons.dev/icons?i=html,css,js,figma,react,next" alt="Tech Stack"/>
 
