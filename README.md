@@ -1,22 +1,21 @@
-<div align="center">
+<div align="center"> <img src="https://i.pinimg.com/originals/c5/9c/2f/c59c2f26e69a8e6258bc323a455e5d58.gif" width="400"/> 
+  
+<div align="left">
 
-# Hey, I'm Toan ✨
-
-<img src="https://i.pinimg.com/originals/c5/9c/2f/c59c2f26e69a8e6258bc323a455e5d58.gif" width="400"/>
-
-I'm currently exploring the world of web development, design, and tech in general. <br>Trying my best.
+  # Hi, I'm Toan  
+A self taught frontend developer from Chile.
 
 ### A bit about me
 
-📓Passionate about neuroscience & human function.<br>
-🏋🏻‍♀️Love lifting weights, running, and exploring the body–mind connection.<br>
-🎨Fan of chess, drawing, and coding as a creative outlet.<br>
-🧃Never done learning.
+🤍 JavaScript enjoyer.<br>
+🤍 Love lifting weights and running.<br>
+🤍 Fan of chess, drawing, and coding as a creative outlet.<br>
+🤍 Never done learning.
 
 
-## 🛰️ Skills and tools
+## ️💻 Skills and tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,react,next" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,react,next,tailwind" alt="Tech Stack"/>
 
 
 
