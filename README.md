@@ -9,7 +9,7 @@ working on → ??? <br>
 learning → whatever catches my attention <br>
 thinking about → css probably <br>
 
-Warning: i'm probably rewriting something, not coding
+**Warning**: i'm probably rewriting something, not coding
 
 
 
