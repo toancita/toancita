@@ -2,20 +2,14 @@
   
 <div align="left">
 
-  # Hi, I'm Toan  
-A self taught frontend developer from Chile.
+  # toan ☆ frontend developer-ish
+i make things and occasionally they work.<br>
 
-### A bit about me
+working on → ??? <br>
+learning → whatever catches my attention <br>
+thinking about → css probably <br>
 
-🤍 JavaScript enjoyer.<br>
-🤍 Love lifting weights and running.<br>
-🤍 Fan of chess, drawing, and coding as a creative outlet.<br>
-🤍 Never done learning.
-
-
-## ️💻 Skills and tools
-
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,react,next,tailwind" alt="Tech Stack"/>
+Warning: i'm probably rewriting something, not coding
 
 
 
