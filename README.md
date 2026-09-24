@@ -7,7 +7,7 @@ i make things and occasionally they work.<br>
 
 working on → ??? <br>
 learning → whatever catches my attention <br>
-thinking about → css probably <br>
+thinking about → cats probably <br>
 
 **Warning**: i'm probably rewriting something, not coding
 
